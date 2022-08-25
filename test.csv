@@ -1,0 +1,13 @@
+Ser_no,name,city,marks
+1,Adams,Mumbai,90
+2,Ansel,Delhi,80
+3,Dulles,Bangalore,67
+4,John Foster,Hyderabad,57
+5,Elizabeth,Pune,34
+6,Queen,Kanpur,88
+7,Kennedy,Indore,56
+8,,,
+9,Dulles,,
+10,John Foster,,80
+11,Elizabeth,Hyderabad,67
+12,Queen,Pune,57
